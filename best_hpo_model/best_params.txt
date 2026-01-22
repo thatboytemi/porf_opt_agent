@@ -1,0 +1,2 @@
+{'learning_rate': 1.1234379911655835e-05, 'batch_size': 256, 'buffer_size': 100000, 'tau': 0.023392645658027896, 'gamma': 0.9, 'net_arch': 'small'}
+Return: 0.32665346748326124
